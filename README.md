@@ -57,4 +57,4 @@ An offline Automatic Number Plate Recognition application developed for practica
 
 ## 📫 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL) · [Portfolio](YOUR_PORTFOLIO_URL)
+[LinkedIn](https://www.linkedin.com/in/prathmesh-dhapate-2455432b4/) · [Email](mailto:prathd24@gmail.com) · [Portfolio](YOUR_PORTFOLIO_URL)
